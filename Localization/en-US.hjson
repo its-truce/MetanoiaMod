@@ -1,0 +1,148 @@
+Mods: {
+	Metanoia: {
+		Items: {
+			AscendedPaladinsHammer: {
+				DisplayName: Ascended Paladin's Hammer
+				Tooltip: Now with an upgraded green tint!
+			}
+
+			Caliburnus: {
+				DisplayName: Caliburnus
+				Tooltip:
+					'''
+					This is one spankin' hot blade.
+					[i:4678] [c/D191FF:Arthurian Legend]
+					'''
+			}
+
+			GleipnirWhip: {
+				DisplayName: Gleipnir
+				Tooltip:
+					'''
+					Binds enemies it hits, dealing constant damage.
+					"Made from the noise of a cat's footfall, a woman's beard, mountain roots,
+					the sinews of a bear, a fish's breath, and the spittle of a bird."
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			GoldenCudgel: {
+				DisplayName: Ruyi Jingu Bang
+				Tooltip: '''"The legendary shape-shifting cudgel of Sun Wukong strikes fear into your foes."'''
+			}
+
+			HadesBident: {
+				DisplayName: Hades Shadowstrike
+				Tooltip:
+					'''
+					Summons alternating attacks at your cursor.
+					"Hades Bident just doesn't sound that cool . . . "
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			Mjolnir: {
+				DisplayName: Mjölnir
+				Tooltip:
+					'''
+					Summons lightning on hitting enemies.
+					Use <right> to use as a hammer.
+					"It's not for the worthy, it's just really heavy."
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			Paradox: {
+				DisplayName: Paradox
+				Tooltip:
+					'''
+					How does this even exist?
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			GriffinItem: {
+				DisplayName: Golden Feather
+				Tooltip:
+					'''
+					Summons a Griffin pet.
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			ArtemisFowl: {
+				DisplayName: Artemis Fowl
+				Tooltip: ""
+			}
+
+			SkofnungSword: {
+				DisplayName: Skofnung Sword
+				Tooltip:
+					'''
+					Makes you dash when you swing.
+					Damage increases with every swing up to 10 times, after which a berserker sword is fired and damage is reset.
+					"It contains the souls of twelve berserkers. Handle with care."
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			ZeusLightning: {
+				DisplayName: Bolt of Olympus
+				Tooltip:
+					'''
+					Uses 10 mana every second.
+					Lightning follows your cursor.
+					You deal less damage if you don't move your cursor around.
+					"ZOOS, YOUR SON HAS RETURNED!"
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			VikingAxe: {
+				DisplayName: Viking Axe
+				Tooltip:
+					'''
+					"Swing, swing, throw!"
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			PoseidonTrident: {
+				DisplayName: Poseidon Trident
+				Tooltip: ""
+			}
+		}
+
+		Buffs: {
+			GriffinBuff: {
+				DisplayName: Griffin
+				Description: Mods.Metanoia.BuffDescription.GriffinBuff
+			}
+		}
+
+		Projectiles: {
+			GriffinPet.DisplayName: Griffin Pet
+			AscendedHammer.DisplayName: Ascended Paladin's Hammer
+			BidentHand.DisplayName: Reaper Claw
+			CaliburnusHoldout.DisplayName: Caliburnus
+			ExplosionLightning.DisplayName: Mjölnir Explosion
+			GleipnirBind.DisplayName: Gleipnir Bind
+			GleipnirRope.DisplayName: Gleipnir Rope
+			LightningStrike.DisplayName: Lightning Strike
+			Lightning.DisplayName: Lightning
+			MjolnirHammer.DisplayName: Thor's Hammer
+			ShockwaveProjectile.DisplayName: Shockwave
+			SlashPurple.DisplayName: Slash Purple
+			SlashWhite.DisplayName: Slash White
+			VikingAxeHoldout.DisplayName: Viking Axe
+			ArtemisFire.DisplayName: Artemis Fire
+			Glowball.DisplayName: Glowball
+			SkofnungHoldout.DisplayName: Skofnung Holdout
+			SkofnungProj.DisplayName: Berserker Sword
+			ZeusBolt.DisplayName: Zeus Bolt
+			MjolnirLightning.DisplayName: Mjolnir Lightning
+			VikingAxeProj.DisplayName: Viking Axe Projectile
+			PoseidonTridentHoldout.DisplayName: Poseidon Trident Holdout
+		}
+	}
+}
