@@ -15,13 +15,6 @@ if (source is EntitySource_ItemUse_WithAmmo use && (use.Item.type == ModContent.
 //override predraw here
 if (projectile.arrow && fromOlympusBows)
 {
-  if (itemType == ModContent.ItemType<ArtemisFowl>())
-  {
-    drawColor = Color.Green
-  }
-  if (itemType == ModContent.ItemType<ApolloSolstice>())
-  {
-    drawColor = Color.Gold
-  }
+  drawColor = itemType == ModContent.ItemType<ArtemisFowl>() ? Color.Green : Color.Gold;
   // draw code here, use drawColor, multiply by float, set .A to 0
 }
