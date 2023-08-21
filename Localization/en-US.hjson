@@ -1,0 +1,302 @@
+Mods: {
+	Metanoia: {
+		Items: {
+			AscendedPaladinsHammer: {
+				DisplayName: Ascended Paladin's Hammer
+				Tooltip:
+					'''
+					Does nothing special.
+					Shame on you, mod developer!
+					"Why even add this...?"
+					'''
+			}
+
+			Caliburnus: {
+				DisplayName: Caliburn
+				Tooltip:
+					'''
+					Fireballs linger above you when you swing.
+					Every 4th swing, the fireballs will move to your cursor.
+					"CaliBURN? Surely it's related to fire?"
+					[i:4678] [c/D191FF:Arthurian Legend]
+					'''
+			}
+
+			GleipnirWhip: {
+				DisplayName: Gleipnir
+				Tooltip:
+					'''
+					Binds enemies it hits, dealing constant damage and knockback.
+					"Made from the noise of a cat's footfall, a woman's beard, mountain roots,
+					the sinews of a bear, a fish's breath, and the spittle of a bird."
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			GoldenCudgel: {
+				DisplayName: Ruyi Jingu Bang
+				Tooltip:
+					'''
+					Use <right> to change size and powers of the staff.
+					"Harry Potter spells have nothing to do with Chinese mytho-"
+					[i:4370] [c/FF2E6D:Chinese Mythology]
+					'''
+			}
+
+			HadesBident: {
+				DisplayName: Hades Shadowstrike
+				Tooltip:
+					'''
+					Summons alternating attacks at your cursor.
+					"Hades Bident just doesn't sound that cool . . ."
+					[i:389] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			Mjolnir: {
+				DisplayName: Mjölnir
+				Tooltip:
+					'''
+					Summons lightning on hitting enemies.
+					Use <right> to use as a hammer.
+					"It's not for the worthy, it's just really heavy."
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			Paradox: {
+				DisplayName: Paradox
+				Tooltip:
+					'''
+					"How does this even exist?"
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			GriffinItem: {
+				DisplayName: Golden Feather
+				Tooltip:
+					'''
+					Summons a Griffin pet.
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			ArtemisFowl: {
+				DisplayName: Artemis Fowl
+				Tooltip:
+					'''
+					Shoots bursts of three arrows.
+					A special Projectile will be shot once every five shots.
+					If an enemy is hit with the Projectile, they will take double damage for the next 2 seconds.
+					"No, this weapon has nothing to do with that one series with the same name."
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			SkofnungSword: {
+				DisplayName: Skofnung Sword
+				Tooltip:
+					'''
+					Makes you dash when you swing.
+					Damage increases with every swing up to 10 times, after which a berserker sword is fired and damage is reset.
+					"It contains the souls of twelve berserkers. Handle with care."
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			ZeusLightning: {
+				DisplayName: Bolt of Olympus
+				Tooltip:
+					'''
+					Uses 10 mana every second.
+					Lightning follows your cursor.
+					You deal less damage if you don't move your cursor around.
+					"ZOOS, YOUR SON HAS RETURNED!"
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			VikingAxe: {
+				DisplayName: Viking Axe
+				Tooltip:
+					'''
+					You can throw it like a boomerang every fifth attack.
+					Use <right> to use as an axe.
+					"Swing, swing, throw!"
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			PoseidonTrident: {
+				DisplayName: Poseidon Trident
+				Tooltip:
+					'''
+					Shoots random fish.
+					Some fish have special effects.
+					"Fish slap motherfu-"
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			ApolloSolstice: {
+				DisplayName: Apollo Solstice
+				Tooltip:
+					'''
+					Shoots four spread out arrows in a cone.
+					Shoots a laser once every five shots.
+					"The sun is a deadly lazer"
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			Chakra: {
+				DisplayName: Sudarshana Chakra
+				Tooltip:
+					'''
+					Chases nearby enemies.
+					Spins at your cursor if you hold down <left>.
+					"May cause premature hair loss."
+					[i:4263] [c/FFB580:Hindu Mythology]
+					'''
+			}
+
+			OdinGungnir: {
+				DisplayName: Odinworthy Gungnir
+				Tooltip:
+					'''
+					Chases and hits up to five nearby enemies.
+					Use <right> to use as a spear.
+					While in spear mode, shoots three weak projectiles.
+					"It's not my fault there's already a Gungnir!"
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			Sumarbrander: {
+				DisplayName: Sumarbrander
+				Tooltip:
+					'''
+					Summons a talking sword that attacks on its own.
+					His pronouns are he/him, and he prefers to be called Jack. He also has an amazing singing voice.
+					"Yeah well, he doesn't really have an actual name, and Sword of Freyr is inconvenient . . ."
+					[i:5095] [c/FF5465:Norse Mythology]
+					'''
+			}
+
+			OrionSight: {
+				DisplayName: Sight of Orion
+				Tooltip:
+					'''
+					Converts wooden arrows into special sighted arrows.
+					Sighted arrows have slight homing and inflict bleeding.
+					"This sure does clash with the furniture . . ."
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			TheSunset: {
+				DisplayName: The Sunset
+				Tooltip: ""
+			}
+
+			Harbinger: {
+				DisplayName: Harbinger of Light
+				Tooltip:
+					'''
+					Shoots bolts of light that chase and home in onto twenty enemies.
+					"I just wanted to add something cool!"
+					[i:4395] [c/FFD359:Greek Mythology]
+					'''
+			}
+
+			NemesisWhip: {
+				DisplayName: Nemesis Whip
+				Tooltip: ""
+			}
+
+			Bashosen: {
+				DisplayName: Bashōsen
+				Tooltip:
+					'''
+					Swings around you, shooting wind blades with high knockback.
+					"The perfect weapon capable of taking down the mightiest of gods, a banana leaf!"
+					[i:4370] [c/FF2E6D:Chinese Mythology]
+					'''
+			}
+		}
+
+		Buffs: {
+			GriffinBuff: {
+				DisplayName: Griffin
+				Description: A griffin is following you
+			}
+
+			ArtemisTarget: {
+				Description: You are being targeted
+				DisplayName: Target
+			}
+
+			SumarbranderBuff: {
+				DisplayName: Sumarbrander Buff
+				Description: Jack will protect you
+			}
+		}
+
+		Projectiles: {
+			GriffinPet.DisplayName: Griffin Pet
+			AscendedHammer.DisplayName: Ascended Paladin's Hammer
+			BidentHand.DisplayName: Reaper Claw
+			CaliburnusHoldout.DisplayName: Caliburnus
+			GleipnirBind.DisplayName: Gleipnir Bind
+			GleipnirRope.DisplayName: Gleipnir Whip
+			LightningStrike.DisplayName: Lightning Strike
+			Lightning.DisplayName: Lightning
+			MjolnirHammer.DisplayName: Thor's Hammer
+			ShockwaveProjectile.DisplayName: Shockwave
+			SlashPurple.DisplayName: Slash Purple
+			SlashWhite.DisplayName: Slash White
+			VikingAxeHoldout.DisplayName: Viking Axe
+			ArtemisFire.DisplayName: Artemis Fire
+			Glowball.DisplayName: Glowball
+			SkofnungHoldout.DisplayName: Skofnung Holdout
+			SkofnungProj.DisplayName: Berserker Sword
+			ZeusBolt.DisplayName: Zeus Bolt
+			MjolnirLightning.DisplayName: Mjolnir Lightning
+			VikingAxeProj.DisplayName: Viking Axe Projectile
+			PoseidonTridentHoldout.DisplayName: Poseidon Trident Holdout
+			CudgelHoldout.DisplayName: Cudgel
+			CudgelHoldout1.DisplayName: Cudgel
+			CudgelHoldout2.DisplayName: Cudgel
+			CudgelShock.DisplayName: Cudgel Shock
+			CudgelHoldout3.DisplayName: Cudgel
+			ApolloBeam.DisplayName: Apollo Beam
+			ArtemisShot.DisplayName: Artemis Shot
+			ArtemisCross.DisplayName: Artemis Cross
+			CaliburnusShot.DisplayName: Caliburnus Shot
+			ChakraProj.DisplayName: Sudarshana Chakra
+			GungnirProj.DisplayName: Gungnir Proj
+			GungnirSpear.DisplayName: Gungnir Spear
+			GungnirSpark.DisplayName: Gungnir Spark
+			SumarbranderSword.DisplayName: Sumarbrander Sword
+			LightningIcon.DisplayName: Lightning Icon
+			PoseidonFish.DisplayName: Poseidon Fish
+			DarkShot.DisplayName: Dark Shot
+			OrionArrow.DisplayName: Orion Arrow
+			NyxBlackHole.DisplayName: Nyx Black Hole
+			SunsetProj.DisplayName: Sunset Proj
+			LightBolt.DisplayName: Light Bolt
+			NemesisRope.DisplayName: Nemesis Rope
+			BashosenHoldout.DisplayName: Bashosen Holdout
+			CorrosiveClaymoreS.DisplayName: Corrosive Claymore S
+			BashosenWind.DisplayName: Bashosen Wind
+		}
+
+		NPCs: {
+			Cacodemon.DisplayName: Cacodemon
+			BlackHole.DisplayName: Black Hole
+			NyxBlackHole.DisplayName: Nyx Black Hole
+			Nyx.DisplayName: Nyx
+		}
+	}
+}
